@@ -1,9 +1,9 @@
 # Cybersecurity Portfolio
 
 ## 🧑‍💻 Sobre mí / About Me
-Profesional en transición hacia el sector de la ciberseguridad, con enfoque práctico en análisis de redes, detección de amenazas y seguridad ofensiva básica. Actualmente desarrollando proyectos reales en laboratorio para adquirir experiencia técnica aplicable a entornos profesionales.
+Militar Profesional en la Reserva (RED). Analista de Ciberseguridad y Ethical Hacking con formación en CEH, CEH Practical (CEH-MASTER), CND, SOC Analyst e Incident Handling, complementadas con formación en Data Science. Perfil técnico y analítico orientado a seguridad informática, seguridad de redes, análisis de vulnerabilidades, detección de amenazas, monitorización SOC y respuesta ante incidentes. Experiencia profesional en entornos operacionales exigentes, con fuerte orientación al cumplimiento de procedimientos, control, confidencialidad y responsabilidad.
 
-Professional transitioning into cybersecurity, with a practical focus on network analysis, threat detection, and basic offensive security. Currently building hands-on lab projects to develop job-ready technical skills.
+Professional Military Reservist (RED). Cybersecurity and Ethical Hacking Analyst with training in CEH, CEH Practical (CEH-MASTER), CND, SOC Analyst, and Incident Handling, complemented by training in Data Science. Technical and analytical profile focused on information security, network security, vulnerability analysis, threat detection, SOC monitoring, and incident response. Professional experience in demanding operational environments, with a strong emphasis on procedural compliance, control, confidentiality, and accountability.
 
 ---
 
@@ -54,16 +54,22 @@ Professional transitioning into cybersecurity, with a practical focus on network
 
 ## 📜 Formación / Education
 
-(Completar con cursos o certificaciones)
-- Ej: Curso de Ciberseguridad
-- Ej: Introducción a redes
+•	2025 - EC-Council Certified Ethical Hacker Practical (CEH-MASTER)
+•	2025 - EC-Council Certified Ethical Hacker (CEH)
+•	2024 - EC-Council Certified Network Defender (CND)
+•	2023 - INCIBE Curso Básico Técnico de Ciberseguridad
+•	2023 - EC-Council Certified Incident Handler (IH&R)
+•	2023 - EC-Council Certified SOC Analyst (CSA)
+•	2022 - EC-Council Certified Security Specialist (ECSS)
+•	2022 - INCIBE Academia Hacker 40 Capture The Flag (CTF)
+
 
 ---
 
 ## 📫 Contacto / Contact
 
-- LinkedIn: (añadir)
-- Email: (añadir)
+- LinkedIn: linkedin.com/in/ramonflorescarmona  
+- Email: ramonflocar@gmail.com
 
 ---
 
