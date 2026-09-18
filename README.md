@@ -84,4 +84,5 @@ Professional Military Reservist (RED). Cybersecurity and Ethical Hacking Analyst
 ## ⚠️ Nota
 
 Todos los proyectos han sido realizados en entornos controlados y con fines educativos.
+
 All projects were conducted in controlled lab environments for educational purposes.
