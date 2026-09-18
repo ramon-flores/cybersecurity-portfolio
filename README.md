@@ -55,12 +55,19 @@ Professional Military Reservist (RED). Cybersecurity and Ethical Hacking Analyst
 ## 📜 Formación / Education
 
 •	2025 - EC-Council Certified Ethical Hacker Practical (CEH-MASTER)
+
 •	2025 - EC-Council Certified Ethical Hacker (CEH)
+
 •	2024 - EC-Council Certified Network Defender (CND)
+
 •	2023 - INCIBE Curso Básico Técnico de Ciberseguridad
+
 •	2023 - EC-Council Certified Incident Handler (IH&R)
+
 •	2023 - EC-Council Certified SOC Analyst (CSA)
+
 •	2022 - EC-Council Certified Security Specialist (ECSS)
+
 •	2022 - INCIBE Academia Hacker 40 Capture The Flag (CTF)
 
 
@@ -68,7 +75,8 @@ Professional Military Reservist (RED). Cybersecurity and Ethical Hacking Analyst
 
 ## 📫 Contacto / Contact
 
-- LinkedIn: linkedin.com/in/ramonflorescarmona  
+- LinkedIn: linkedin.com/in/ramonflorescarmona
+  
 - Email: ramonflocar@gmail.com
 
 ---
